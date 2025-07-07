@@ -1,0 +1,13 @@
+Acquirer,Target,Target Sector,Base Valuation,Final Price,Deal Structure,Negotiated Premium (%),Synergy Premium (%),Synergy Score,Matched Synergy Assets
+TechCorp (Google-like),Brown-Mills,AI,"6,599,049,821.53","10,180,523,304.42",All-Stock,29.27%,25.00%,1.0,"Predictive Analytics Suite, Voice Recognition API"
+Innovate Inc. (Microsoft-like),Snyder Inc,AI,"9,359,884,990.01","13,927,145,152.70",All-Cash,29.80%,19.00%,0.5,Fraud Detection System
+Global Solutions (Amazon-like),"Anderson, Jones and Medina",AI,"2,822,455,948.20","3,633,509,309.71",All-Cash,28.74%,0.00%,0,
+Vista Equity Partners-like,Hughes-Archer,SaaS,"1,908,070,076.92","2,207,366,371.21",All-Cash,15.69%,0.00%,0,
+Thoma Bravo-like,"Rodriguez, Byrd and Morris",SaaS,"9,669,847,102.83","11,624,734,494.62",All-Cash,20.22%,0.00%,0,
+Sequoia Growth-like,Griffin Ltd,Infrastructure,"7,874,116,189.88","8,681,767,419.23",All-Stock,10.26%,0.00%,0,
+Global Solutions (Amazon-like),Smith-Jenkins,Infrastructure,"371,048,940.35","518,442,777.49",All-Cash,24.72%,15.00%,0.5,Data-Intensive Cloud Platform
+Sequoia Growth-like,Mckinney-Carter,SaaS,"11,890,501,325.48","13,571,180,493.48",Hybrid,14.13%,0.00%,0,
+TechCorp (Google-like),Yang-Mcneil,Infrastructure,"2,368,565,134.40","2,759,517,798.82",All-Stock,16.51%,0.00%,0,
+Innovate Inc. (Microsoft-like),Taylor-Clark,SaaS,"1,707,701,554.06","2,075,875,428.98",All-Stock,21.56%,0.00%,0,
+Global Solutions (Amazon-like),Ward Inc,Infrastructure,"90,693,617.94","111,950,612.82",All-Stock,23.44%,0.00%,0,
+Sequoia Growth-like,Wilson LLC,AI,"13,375,174,888.33","16,469,049,468.88",All-Cash,23.13%,0.00%,0,

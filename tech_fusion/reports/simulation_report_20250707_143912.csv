@@ -1,0 +1,10 @@
+Acquirer,Target,Target Sector,Base Valuation,Final Price,Deal Structure,Negotiated Premium (%),Synergy Premium (%),Synergy Score,Matched Synergy Assets
+TechCorp (Google-like),Mcguire-Davenport,AI,"8,519,762,590.26","11,765,349,752.92",All-Cash,16.09%,22.00%,1.0,"Predictive Analytics Suite, Voice Recognition API"
+Innovate Inc. (Microsoft-like),Small-Phelps,Cybersecurity,"10,697,520,563.92","13,871,958,713.80",All-Cash,18.67%,11.00%,0.5,Fraud Detection System
+Global Solutions (Amazon-like),"Ayers, Molina and Gonzales",AI,"4,155,539,565.70","5,179,796,207.36",All-Stock,24.65%,0.00%,0,
+Global Solutions (Amazon-like),"Mendez, Webb and Taylor",Infrastructure,"3,901,785,528.69","4,539,864,321.60",All-Stock,16.35%,0.00%,0,
+Sequoia Growth-like,"Brooks, White and Weeks",Marketing Tech,"5,310,016,430.47","6,125,547,491.21",All-Cash,15.36%,0.00%,0,
+Innovate Inc. (Microsoft-like),Dean Inc,AI,"857,658,700.88","1,240,201,168.69",Hybrid,26.60%,18.00%,0.5,Fraud Detection System
+Global Solutions (Amazon-like),"Johnson, King and Curtis",AI,"7,136,775,571.05","8,849,132,260.21",All-Cash,23.99%,0.00%,0,
+Thoma Bravo-like,"Lawrence, Thompson and Hoover",Cybersecurity,"4,809,978,477.80","5,442,060,546.50",All-Cash,13.14%,0.00%,0,
+Sequoia Growth-like,Jones-Huynh,SaaS,"513,038,139.18","638,636,063.60",All-Cash,24.48%,0.00%,0,
